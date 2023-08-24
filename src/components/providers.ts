@@ -1,1 +1,1 @@
-export const providers = []
+export const providers = ['AntDesignProvider']

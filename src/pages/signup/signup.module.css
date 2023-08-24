@@ -1,0 +1,116 @@
+.root {
+  background: #fff;
+  height: auto;
+  width: 100%;
+  min-height: 100vh;
+  max-height: unset;
+  position: static;
+  margin: 0 auto;
+}
+
+.button {
+  position: absolute;
+  top: 338px;
+  left: 124px;
+  right: unset;
+  width: 138px;
+}
+
+.text5 {
+}
+
+.text4 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  top: 257px;
+  left: 125px;
+  right: unset;
+}
+
+.text3 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  top: 198px;
+  left: 125px;
+  right: unset;
+}
+
+.text2 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  top: 140px;
+  left: 125px;
+  right: unset;
+}
+
+.text1 {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 14px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  top: 78px;
+  left: 127px;
+  right: unset;
+}
+
+.inputPassword1 {
+  position: absolute;
+  top: 278px;
+  left: 125px;
+  right: unset;
+  height: 32px;
+  width: 200px;
+}
+
+.inputPassword {
+  position: absolute;
+  top: 218px;
+  left: 125px;
+  right: unset;
+  height: 32px;
+  width: 200px;
+}
+
+.input1 {
+  position: absolute;
+  top: 161px;
+  left: 125px;
+  right: unset;
+  height: 32px;
+  width: 200px;
+}
+
+.input {
+  position: absolute;
+  top: 102px;
+  left: 125px;
+  right: unset;
+  height: 32px;
+  width: 200px;
+}
+
+.text {
+  font-family: inherit;
+  font-weight: 300;
+  font-size: 16px;
+  text-align: left;
+  color: #000;
+  position: absolute;
+  top: 1px;
+  left: 5px;
+  right: unset;
+}
